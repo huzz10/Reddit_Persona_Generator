@@ -74,11 +74,11 @@ python main.py https://www.reddit.com/user/gallowboob/
 ---
 ##🤖 LLM Used
 This project uses:
--Gemini 1.5 Flash via Google Generative AI SDK
--Handles large prompt inputs (posts + comments)
--Fast and affordable (free quota available)
--Easy to integrate and scale
--🔒 No Reddit Login Required
+- Gemini 1.5 Flash via Google Generative AI SDK
+- Handles large prompt inputs (posts + comments)
+- Fast and affordable (free quota available)
+- Easy to integrate and scale
+- 🔒 No Reddit Login Required
 
 ---
 ---
