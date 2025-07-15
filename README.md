@@ -4,7 +4,7 @@ This project fetches Reddit posts and comments from a user profile and uses a **
 
 ✅ No Reddit API key needed  
 ✅ Powered by Google Gemini 1.5 Flash  
-- Persona stored in outputs folder
+✅ Persona stored in outputs folder
 ---
 
 ## 🚀 Features
