@@ -79,12 +79,14 @@ This project uses:
 -Fast and affordable (free quota available)
 -Easy to integrate and scale
 -🔒 No Reddit Login Required
+
 ---
 ---
 ##⚠️ Limitations
--Cannot fetch posts/comments from private or deleted Reddit accounts
--Users with minimal or low-effort content may yield poor personas
--Gemini may occasionally return general or vague traits for low-volume profiles
--Avoid hammering Reddit with rapid requests — use responsibly
+- Cannot fetch posts/comments from private or deleted Reddit accounts
+- Users with minimal or low-effort content may yield poor personas
+- Gemini may occasionally return general or vague traits for low-volume profiles
+- Avoid hammering Reddit with rapid requests — use responsibly
+
 ---
 
